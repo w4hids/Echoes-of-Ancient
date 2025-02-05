@@ -242,7 +242,7 @@ body {
 
 .magical-text {
     font-size: 4rem;
-    margin-bottom: 1rem;
+    margin-bottom: 0.5rem;
     background: linear-gradient(to right, var(--accent-color), var(--secondary-color));
     -webkit-background-clip: text;
     color: transparent;
